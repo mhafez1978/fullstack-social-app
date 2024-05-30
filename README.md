@@ -1,7 +1,7 @@
-// This is a full stack social network app
+# This is a full stack social network app
 
-# App features
+## App features
 
-## server
+### server
 
 - logger to log all requests and store them in server/logs/server-logs (disabled by default).
